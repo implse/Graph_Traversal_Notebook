@@ -1,3 +1,5 @@
 # Graph Traversal - Jupyter Notebook
 
-![Simple Graph](Graph_480_360.png)
+<p align="center">
+  <img width="480" height="360" src="Graph_480_360.png">
+</p>
