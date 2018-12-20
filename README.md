@@ -11,10 +11,3 @@
 <p align="center">
   <img width="480" height="360" src="images\Color_Path_Weighted_Graph_480_360.png">
 </p>
-
-
-### A * Algorithm
-
-<p align="center">
-  <img width="480" height="360" src="images\A_Star_Graph_480_360.png">
-</p>
